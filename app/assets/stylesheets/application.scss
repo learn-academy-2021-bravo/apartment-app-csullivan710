@@ -13,3 +13,27 @@
  *= require_tree .
  *= require_self
  */
+//  @import 'bootstrap';
+
+ #footer {
+     position: fixed;
+     bottom: 0;
+     width: 100%;
+     text-align: center;
+     background-color: aquamarine;
+     padding: 15px;
+     font-family: Arial, Helvetica, sans-serif;
+     font-size: large;
+    margin: auto
+ }
+ #header {
+    height:100px;
+    width: 100%;
+    text-align: center;
+    background-color: green;
+    font-family: Arial, Helvetica, sans-serif;
+   
+}
+#card {
+    margin: 20px
+}
